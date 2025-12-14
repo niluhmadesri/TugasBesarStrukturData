@@ -1,0 +1,19 @@
+{
+  "safa": {
+    "email": "safa@gmail.com",
+    "username": "safa",
+    "password": "safa123",
+    "playlists": {
+      "galau": [],
+      "Dangdut": [
+        "L002"
+      ]
+    }
+  },
+  "ode": {
+    "email": "ode@gmail.com",
+    "username": "ode",
+    "password": "ode123",
+    "playlists": {}
+  }
+}

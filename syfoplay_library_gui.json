@@ -1,0 +1,23 @@
+{
+  "lagu_counter": 3,
+  "library": [
+    {
+      "id_lagu": "L001",
+      "judul": "Sialan",
+      "artis": "Juicy Luicy",
+      "genre": "Pop",
+      "album": "Nonfiksi",
+      "durasi": "4:28",
+      "file_audio": "C:/Users/USER/Downloads/Adrian Khalif & Juicy Luicy - Sialan (Official Music Video).mp3"
+    },
+    {
+      "id_lagu": "L002",
+      "judul": "Sik Asik",
+      "artis": "Ayu Ting Ting",
+      "genre": "Dangdut",
+      "album": "Ayu Ting Ting & Friends",
+      "durasi": "3:54",
+      "file_audio": "C:/Users/USER/Downloads/Ayu Ting Ting - Sik Asik [Official Music Video Clip].mp3"
+    }
+  ]
+}
