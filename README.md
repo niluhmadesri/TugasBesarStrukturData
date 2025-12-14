@@ -60,4 +60,3 @@ Keterangan:
 - `syfoplay_library_gui.json` : Menyimpan data lagu (library) secara permanen menggunakan format JSON.
 - `syfoplay_users_gui.json` : Menyimpan data pengguna dan playlist.
 - `README.md` : Dokumentasi aplikasi.
-- `COMMIT_LOG.md` : Catatan perkembangan pengembangan aplikasi.
