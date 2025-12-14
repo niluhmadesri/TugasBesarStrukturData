@@ -46,13 +46,17 @@ Catatan:
 ## Struktur Proyek
 
 SyfoPlay_Tubes_Strukdat/
-├── guidanpygame.ipynb
+├── Aplikasi_Syfoplay.ipynb
+├── README.md
+├── syfoplayCLI.ipynb
+├── syfoplayGUI.ipynb
 ├── syfoplay_library_gui.json
 ├── syfoplay_users_gui.json
-├── README.md
-├── COMMIT_LOG.md
 Keterangan:
-- `guidanpygame.ipynb` : File utama aplikasi pemutar musik berbasis Python yang berisi logika program, GUI, dan fitur pemutaran audio.
+- `Aplikasi_Syfoplay.ipynb` : Merupakan file utama aplikasi SyfoPlay yang berisi integrasi logika program, pengelolaan struktur data, serta pengujian fitur pemutar musik secara keseluruhan.
+- `README.md` : Dokumentasi aplikasi.
+- `syfoplayCLI.ipynb` : Berisi implementasi aplikasi SyfoPlay berbasis Command Line Interface (CLI) yang digunakan untuk pengujian logika program dan struktur data tanpa antarmuka grafis.
+- `syfoplayGUI.ipynb` : Merupakan file aplikasi SyfoPlay berbasis Graphical User Interface (GUI) yang dibangun menggunakan CustomTkinter, mencakup fitur login, manajemen lagu, playlist user, dan pemutaran audio.
 - `syfoplay_library_gui.json` : Menyimpan data lagu (library) secara permanen menggunakan format JSON.
 - `syfoplay_users_gui.json` : Menyimpan data pengguna dan playlist.
 - `README.md` : Dokumentasi aplikasi.
