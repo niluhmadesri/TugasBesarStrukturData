@@ -59,4 +59,3 @@ Keterangan:
 - `syfoplayGUI.ipynb` : Merupakan file aplikasi SyfoPlay berbasis Graphical User Interface (GUI) yang dibangun menggunakan CustomTkinter, mencakup fitur login, manajemen lagu, playlist user, dan pemutaran audio.
 - `syfoplay_library_gui.json` : Menyimpan data lagu (library) secara permanen menggunakan format JSON.
 - `syfoplay_users_gui.json` : Menyimpan data pengguna dan playlist.
-- `README.md` : Dokumentasi aplikasi.
